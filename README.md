@@ -36,7 +36,7 @@ The dataset (**player_engagement_data.csv**) simulates **200 player activity log
 - 🔁 **Retention & Churn Breakdown** — Insights into player retention patterns.
 - 😊 **Feedback Sentiment Analysis** — Breakdown of positive, neutral, and negative feedback.
 - 🌍 **Regional Player Distribution** — Map visualization of active player locations.
-- 📊 **Insight Cards/KPIs**:
+- 📊 **Insight Cards/KPIs**
 
 
 ---
