@@ -37,10 +37,7 @@ The dataset (**player_engagement_data.csv**) simulates **200 player activity log
 - 😊 **Feedback Sentiment Analysis** — Breakdown of positive, neutral, and negative feedback.
 - 🌍 **Regional Player Distribution** — Map visualization of active player locations.
 - 📊 **Insight Cards/KPIs**:
-  - Total Players
-  - Total Revenue
-  - Average Session Duration
-  - Positive Feedback Percentage
+
 
 ---
 
