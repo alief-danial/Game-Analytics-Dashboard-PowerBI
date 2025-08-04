@@ -4,8 +4,8 @@
 This project showcases a **Power BI dashboard** designed to analyze **player engagement metrics** for a simulated mobile/PC game. The dashboard provides actionable insights into player activity, in-game purchases, retention behavior, and community feedback sentiment — supporting data-driven decision-making for game operations and monetization strategies.
 ---
 ## Repo Folder Structure
-Gaming-Analytics-Dashboard-PowerBI/
 <pre>
+Gaming-Analytics-Dashboard-PowerBI/
 ├── Dataset/
 │   └── player_engagement_data.csv
 ├── PowerBI_Report/
